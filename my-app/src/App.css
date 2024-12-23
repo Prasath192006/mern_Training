@@ -35,4 +35,15 @@
   to {
     transform: rotate(360deg);
   }
+}    
+
+h1{
+  text-align: center;
+}
+
+.Car_align{
+  display:flex ;
+  gap: 60px;
+  padding-left: 50px;
+  text-align: center;
 }
